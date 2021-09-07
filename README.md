@@ -1,8 +1,11 @@
 # Atasehir-Bld-Totem-Arayuz-Olusturucu
 
 Bu uygulama Ataheir Belediyesi içindeki katlar arasında bulunan totemlerdeki panelleri oluşturmayı sağlar.
+
 Winrar dosyasına girip view raw diyerek dosyayı indirebilirsiniz.
+
 NOT: Bilgisayarınızda Python kurulu olduğundan emin olun.
+
 Nöbetçi Listesi Ekleme {
 1) Dosya içerisindeki nobetciList.csv dosyasını not defteri ile açın.
 2) İlk satır stun isimleri olup oraya isim yazmayınız.
