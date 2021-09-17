@@ -8,7 +8,7 @@ NOT: Bilgisayarınızda Python kurulu olduğundan emin olun.
 
 Nöbetçi Listesi Ekleme {
 1) Dosya içerisindeki nobetciList.csv dosyasını not defteri ile açın.
-2) İlk satır stun isimleri olup oraya isim yazmayınız.
+2) İlk satır, stun isimleri olup oraya isim yazmayınız.
 3) Yazılış şekli olarak önce Başkan Yardımcısı ismi ardından virgül(,)işareti koyup Müdür ismini yazınız.
 4) İsim soyisim arasındaki boşluk dışında boşluk kullanmayınız.
 5) Çıkarken Kaydetmeyi Unutmayın :)
